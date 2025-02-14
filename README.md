@@ -15,12 +15,13 @@ on termux:
    • pip install requests
    
    • git clone
+   https://github.com/taha185/find_ip.git
    
    • python find_ip.py
    # on Linux
    •sudo apt install git python3 
 
-   •git clone
+   •git clone https://github.com/taha185/find_ip.git
 
    •pip install requests
 
