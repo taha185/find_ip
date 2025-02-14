@@ -5,7 +5,8 @@ made with python
 do not use this too for illegal reasons,
 im not responsible for any misuse
 # how to install
-on termux: 
+# on termux: 
+
    • apt update -y
 
    • pkg install git
